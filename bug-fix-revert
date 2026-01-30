@@ -1,0 +1,26 @@
+{
+  "url": "https://api.github.com/repos/original-owner/sample-repo/pulls/3",
+  "id": 987654321,
+  "state": "open",
+  "title": "Bug fix revert",
+  "head": {
+    "label": "contributor-user:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "repo": {
+      "id": 123456789,
+      "name": "sample-repo",
+      "full_name": "contributor-user/sample-repo",
+      "fork": true,
+      "owner": {
+        "login": "contributor-user"
+      }
+    }
+  },
+  "base": {
+    "label": "original-owner:main",
+    "ref": "main",
+    "repo": {
+      "full_name": "original-owner/sample-repo"
+    }
+  }
+}
