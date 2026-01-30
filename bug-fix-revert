@@ -1,5 +1,5 @@
 {
-  "url": "https://api.github.com/repos/original-owner/sample-repo/pulls/3",
+  "url": "https://github.com/phuxnguyen/forked",
   "id": 987654321,
   "state": "open",
   "title": "Bug fix revert",
